@@ -1,0 +1,13 @@
+{
+    "name": "prospress/woocommerce-subscriptions",
+    "description": "Sell products and services with recurring payments in your WooCommerce Store.",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Prospress",
+            "email": "info@prospress.com"
+        }
+    ],
+    "require": {}
+}
